@@ -9,7 +9,7 @@ This project SuwiCoin shows how to implement a basic crypto currency on Block-Ch
 * Nonce
 * SHA256
 * Chain Creation
-* Chain Intigrity
+* Chain Integrity
 
 ###  Chain & Block Creation
 
