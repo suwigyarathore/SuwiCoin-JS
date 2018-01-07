@@ -80,7 +80,7 @@ let suwiCoin = new Blockchain();
 // console.log('Is block chain valid?', suwiCoin.isChainValid());
 
 
-//PART 2 PROOF OF WORK PROVES THE BLOCK CAN ADDED ONLY AFTER SIGNIFICANT WORK
+//PART 2 PROOF OF WORK PROVES THE BLOCK CAN BE ADDED ONLY AFTER SIGNIFICANT WORK
 console.log('Mining First Block');
 suwiCoin.addBlock(new Block(1, "10/05/2018", { amount: 5 }));
 
